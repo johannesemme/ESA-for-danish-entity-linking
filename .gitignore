@@ -1,0 +1,25 @@
+# Environments
+esa_ned/
+
+# wikidata
+wikidata/
+
+data/
+
+#  Jupyter notebook
+.ipynb_checkpoints
+notebooks/
+
+# Byte-compiled / optimized / DLL file
+__pycache__/
+.pyc
+
+# text file
+noter.txt
+
+# models
+ESA models/
+
+# dump database + entity vocab
+dumps/
+ent_vocab/
